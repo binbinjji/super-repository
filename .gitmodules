@@ -1,0 +1,3 @@
+[submodule "sub-repository"]
+	path = sub-repository
+	url = https://github.com/binbinjji/sub-repository.git
